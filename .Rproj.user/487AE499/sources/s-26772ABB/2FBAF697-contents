@@ -1,0 +1,18 @@
+---
+title: "tips"
+output: html_document
+date: '2022-10-01'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+{{% callout note %}}
+Use the following settings:  
+✓ Keep the repository `Public`  
+✓ Add a `README` file  
+✓ Do not add `.gitignore`  
+{{% /callout %}}
+
