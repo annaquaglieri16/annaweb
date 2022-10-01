@@ -6,14 +6,32 @@
     <description>Recent content in Talks on Anna Quaglieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My journey in data science</title>
+      <link>/talk/2022_careers/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2022_careers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Introduction to Mass Spectrometry-based Proteomics data generation and processing</title>
-      <link>/talk/2021_mszurich/</link>
+      <link>/talk/2022_mszurich/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/talk/2021_mszurich/</guid>
+      <guid>/talk/2022_mszurich/</guid>
       <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Automated benchmarking enables continuous confidence in scientific software development</title>
+      <link>/talk/2022_asms_minneapolis/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2022_asms_minneapolis/</guid>
+      <description></description>
     </item>
     
     <item>
