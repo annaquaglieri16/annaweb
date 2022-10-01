@@ -11,7 +11,7 @@ excerpt: Talk summarising my highlights of the useR! 2021 conference.
 featured: true
 layout: single
 links:
-- icon: presentation-screen
+- icon: images
   icon_pack: fas
   name: Slides
   url: https://user2021-rladies-melbourne.netlify.app/#1

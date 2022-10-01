@@ -6,22 +6,31 @@
     <description>Recent content in Talks on Anna Quaglieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Mass Spectrometry-based Proteomics data generation and processing</title>
+      <link>/talk/2021_mszurich/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2021_mszurich/</guid>
+      <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
     <item>
       <title>Invited talks at career events</title>
-      <link>/talk/careers2021/</link>
+      <link>/talk/2021_careers/</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/talk/careers2021/</guid>
+      <guid>/talk/2021_careers/</guid>
       <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
     </item>
     
     <item>
       <title>A remote glimpse into the useR! 2021 conference</title>
-      <link>/talk/user2021/</link>
+      <link>/talk/2021_user/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/talk/user2021/</guid>
+      <guid>/talk/2021_user/</guid>
       <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
     </item>
     
