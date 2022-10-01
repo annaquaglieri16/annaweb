@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk on Anna Quaglieri</title>
+    <link>/categories/talk/</link>
+    <description>Recent content in talk on Anna Quaglieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invited talks at career events</title>
+      <link>/talk/careers2021/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/careers2021/</guid>
+      <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
+    <item>
+      <title>A remote glimpse into the useR! 2021 conference</title>
+      <link>/talk/user2021/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/user2021/</guid>
+      <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
+  </channel>
+</rss>
