@@ -8,82 +8,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Netlify</title>
-      <link>/cv/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
-Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
-    </item>
-    
-    <item>
-      <title>A GitHub profile</title>
-      <link>/cv/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day01/01-github/</guid>
-      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
-    </item>
-    
-    <item>
-      <title>Prework</title>
-      <link>/cv/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
-    </item>
-    
-    <item>
-      <title>A postcard</title>
-      <link>/cv/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day01/02-postcards/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
-    </item>
-    
-    <item>
-      <title>Using blogdown</title>
-      <link>/cv/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day02/02-blogdown/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
-install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
-    </item>
-    
-    <item>
-      <title>A distill site</title>
-      <link>/cv/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day01/03-distill/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
-    </item>
-    
-    <item>
-      <title>Warm woolen mittens</title>
-      <link>/cv/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/day02/03-blogdown/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/cv/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: cv  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
-    </item>
-    
-    <item>
       <title>My journey in data science</title>
       <link>/talk/2022_careers/</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
@@ -121,39 +45,29 @@ My content section is: cv  My layout is: single-series   part 2!     does this w
     
     <item>
       <title>A remote glimpse into the useR! 2021 conference</title>
+      <link>/talk/2018_user/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_user/</guid>
+      <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
+    <item>
+      <title>A remote glimpse into the useR! 2021 conference</title>
+      <link>/talk/2019_phd_completion/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_phd_completion/</guid>
+      <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
+    </item>
+    
+    <item>
+      <title>A remote glimpse into the useR! 2021 conference</title>
       <link>/talk/2021_user/</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>/talk/2021_user/</guid>
       <description>This page contains the links to the slides of invited talks at career events in 2021.</description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>/community/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/community/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>/community/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/community/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>/community/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/community/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
     </item>
     
     <item>

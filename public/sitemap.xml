@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cv/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/cv/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,41 +26,20 @@
     <loc>/categories/conference/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/categories/mass-spectrometry/</loc>
+    <lastmod>2022-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2021_careers/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2021_user/</loc>
+    <loc>/talk/2018_user/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/cv/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <loc>/talk/2019_phd_completion/</loc>
+    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/community/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/community/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/community/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/talk/2021_user/</loc>
+    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -98,10 +50,16 @@
     <loc>/photos/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
+    <loc>/cv/</loc>
+  </url><url>
+    <loc>/community/</loc>
+  </url><url>
     <loc>/contributors/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>
     <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
