@@ -1,28 +1,32 @@
 ---
-author: Anna Quaglieri
+author: Johann Gagnon-Bartsch, Anna Quaglieri, Ramyar Molania, Sepideh Foroutan, Marie Trussart
 categories:
 - talk
-date: "2021-08-03"
-date_end: "2021-08-03"
+date: "2018-07-11"
+date_end: "2018-07-11"
 draft: false
-event: R-Ladies Melbourne Meetup
-event_url: https://www.meetup.com/rladies-melbourne/events/279730702/
-excerpt: Talk summarising my highlights of the useR! 2021 conference.
+event: useR! 2018
+event_url: https://www.r-project.org/conferences/useR-2018/tutorials/index.html
+excerpt: Workshop material and recording from useR! 2018.
 featured: true
 layout: single
 links:
-- icon: images
-  icon_pack: fas
-  name: Slides
-  url: https://user2021-rladies-melbourne.netlify.app/#1
+- icon: github
+  icon_pack: fab
+  name: Workshop Material
+  url: https://github.com/annaquaglieri16/ruv-useR2018
 - icon: youtube
   icon_pack: fab
-  name: Recording
-  url: https://www.youtube.com/watch?v=XBoWCTYUvgY
-location: Melbourne, Australia
+  name: Part 1 - Introduction to RUV
+  url:  https://www.youtube.com/watch?v=Z9IjfmSRfVU&t=1877s
+- icon: youtube
+  icon_pack: fab
+  name: Part 2 - Using RUV
+  url: https://www.youtube.com/watch?v=HUcZQC3xWDo&list=PL4IzsxWztPdnyAKQQLxA4ucpaCLdsKvZw&index=5
+location: Brisbane, Australia
 show_post_time: false
-subtitle: Testing
-title: A remote glimpse into the useR! 2021 conference
+subtitle: 
+title: Looking to clean your data? Learn how to Remove Unwanted Variation with R
 ---
 
 This page contains the links to the slides of invited talks at career events in 2021.

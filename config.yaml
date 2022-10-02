@@ -97,12 +97,16 @@ menu:
       weight: 2
     - name: Community
       title: Community Engagement
-      url: /community/
+      url: /project/
       weight: 3
+    - name: Blogs
+      title: Blogs
+      url: /post/
+      weight: 4
     - name: Photos
       title: Conference & Events Photos
       url: /photos/
-      weight: 4
+      weight: 5
 privacy:
   disqus:
     disable: no

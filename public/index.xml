@@ -6,7 +6,22 @@
     <description>Recent content on Anna Quaglieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public speaking</title>
+      <link>/post/2022-10-02-public-speaking/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-10-02-public-speaking/</guid>
+      <description>
+
+
+&lt;p&gt;My first post&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;1+1&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 2&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
     <item>
       <title>My journey in data science</title>
       <link>/talk/2022_careers/</link>
@@ -92,32 +107,23 @@ useR! conference; gained a new sponsor, Nous Group, and renewed sponsorship from
     </item>
     
     <item>
-      <title>A remote glimpse into the useR! 2021 conference</title>
-      <link>/talk/2019_phd_completion/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2019_phd_completion/</guid>
-      <description>&lt;p&gt;This page contains the links to the slides of invited talks at career events in 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A remote glimpse into the useR! 2021 conference</title>
-      <link>/talk/2018_user/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2018_user/</guid>
-      <description>&lt;p&gt;This page contains the links to the slides of invited talks at career events in 2021.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Parkville Toastmasters</title>
       <link>/project/toastmasters/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/project/toastmasters/</guid>
       <description>&lt;p&gt;I joined the group in 2019 and since then I&amp;rsquo;ve been learning so much about giving presentations and growing my confidence in front of an audience. The community at Toastmasters Parkville is extremely supportive and engaging making every event night super fun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using the transcriptome to study therapy response in luekaemia</title>
+      <link>/talk/2019_phd_completion/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019_phd_completion/</guid>
+      <description>&lt;p&gt;This page contains the links to the slides of invited talks at career events in 2021.&lt;/p&gt;
+&lt;p&gt;| Thumbnail image from &lt;a href=&#34;https://www.genengnews.com/topics/cancer/scientists-discover-potential-new-method-for-treating-acute-myeloid-leukemia/&#34;&gt;https://www.genengnews.com/topics/cancer/scientists-discover-potential-new-method-for-treating-acute-myeloid-leukemia/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -326,6 +332,16 @@ See form.html in the layouts folder.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Looking to clean your data? Learn how to Remove Unwanted Variation with R</title>
+      <link>/talk/2018_user/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2018_user/</guid>
+      <description>&lt;p&gt;This page contains the links to the slides of invited talks at career events in 2021.&lt;/p&gt;
 </description>
     </item>
     

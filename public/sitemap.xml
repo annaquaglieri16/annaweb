@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2022-10-02-public-speaking/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
@@ -71,17 +77,20 @@
     <loc>/talk/2021_careers/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2018_user/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/2019_phd_completion/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/talk/2021_user/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/toastmasters/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/genomics/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/reasearch/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/2019_phd_completion/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -91,6 +100,9 @@
   </url><url>
     <loc>/photos/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
+  </url><url>
+    <loc>/talk/2018_user/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/cv/</loc>
   </url><url>

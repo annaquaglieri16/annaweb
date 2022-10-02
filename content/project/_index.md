@@ -1,10 +1,10 @@
 ---
 title: Community initiatives
-description: "Brief overview of the community initiatives that I am (was) part of."
+description: "Community initiatives that I am part of."
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list-grid # list, list-sidebar, list-grid
 ---

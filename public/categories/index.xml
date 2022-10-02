@@ -43,6 +43,24 @@
       <description></description>
     </item>
     
+    <item>
+      <title>reasearch</title>
+      <link>/categories/reasearch/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/reasearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>/categories/genomics/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/genomics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
 
