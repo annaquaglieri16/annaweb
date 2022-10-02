@@ -35,10 +35,10 @@
     <loc>/categories/community/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/</loc>
+    <loc>/project/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/fems/</loc>
+    <loc>/project/fems/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/mass-spectrometry/</loc>
@@ -53,7 +53,7 @@
     <loc>/tags/bioconductor/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/coc_bioc/</loc>
+    <loc>/project/coc_bioc/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/code-of-conduct/</loc>
@@ -62,7 +62,7 @@
     <loc>/tags/r/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/rladies/</loc>
+    <loc>/project/rladies/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/rladies/</loc>
@@ -80,7 +80,7 @@
     <loc>/talk/2021_user/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/community/toastmasters/</loc>
+    <loc>/project/toastmasters/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
