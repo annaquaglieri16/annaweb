@@ -8,11 +8,11 @@
     <language>en</language>
     <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>community</title>
-      <link>/tags/community/</link>
+      <title>women</title>
+      <link>/tags/women/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/community/</guid>
+      <guid>/tags/women/</guid>
       <description></description>
     </item>
     
@@ -26,20 +26,20 @@
     </item>
     
     <item>
-      <title>women</title>
-      <link>/tags/women/</link>
+      <title>community</title>
+      <link>/tags/community/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/women/</guid>
+      <guid>/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>bioconductor</title>
-      <link>/tags/bioconductor/</link>
+      <title>R</title>
+      <link>/tags/r/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bioconductor/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
@@ -53,11 +53,11 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>/tags/r/</link>
+      <title>bioconductor</title>
+      <link>/tags/bioconductor/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>/tags/bioconductor/</guid>
       <description></description>
     </item>
     
@@ -72,3 +72,5 @@
     
   </channel>
 </rss>
+
+

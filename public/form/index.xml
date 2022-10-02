@@ -13,9 +13,14 @@
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
       <guid>/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+      <description>&lt;p&gt;** Contact page don&amp;rsquo;t contain a body, just the front matter above.
+See form.html in the layouts folder.&lt;/p&gt;
+&lt;p&gt;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.
+**&lt;/p&gt;
+</description>
     </item>
     
   </channel>
 </rss>
+
+
