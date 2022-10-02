@@ -20,5 +20,3 @@ show_post_time: false
 subtitle: 
 title: Introduction to Mass Spectrometry-based Proteomics data generation and processing
 ---
-
-This page contains the links to the slides of invited talks at career events in 2021.
