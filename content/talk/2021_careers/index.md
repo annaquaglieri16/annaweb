@@ -21,7 +21,7 @@ links:
   url: https://ssavic2021.netlify.app
 location: Melbourne, Australia
 show_post_time: false
-subtitle: Testing
+subtitle:
 title: Invited talks at career events
 ---
 

@@ -14,12 +14,12 @@ categories:
 - mass spectrometry
 title: FeMS mentoring
 links:
-- icon: door-opes
+- icon: door-open
   icon_pack: fas
   name: FeMS website
   url: https://femalesinms.com/
 - icon: door-open
-  icon_pack: fab
+  icon_pack: fas
   name: FeMS Mentorship
   url: https://femalesinms.com/mentorship-program/
 ---

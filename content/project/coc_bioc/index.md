@@ -13,7 +13,7 @@ categories:
 - community
 title: Bioconductor Code of Conduct
 links:
-- icon: door-opes
+- icon: door-open
   icon_pack: fas
   name: Code of Conduct
   url: https://bioconductor.org/about/code-of-conduct/#:~:text=Sexual%20language%20and%20imagery%20are,the%20Code%20of%20Conduct%20committee.

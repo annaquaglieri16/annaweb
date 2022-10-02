@@ -12,7 +12,7 @@ categories:
 - community
 title: Parkville Toastmasters
 links:
-- icon: door-opes
+- icon: door-open
   icon_pack: fas
   name: Website
   url: https://www.toastmasters.org/Find-a-Club/03672383-03672383
