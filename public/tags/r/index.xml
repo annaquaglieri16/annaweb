@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community initiatives on Anna Quaglieri</title>
-    <link>/community/</link>
-    <description>Recent content in Community initiatives on Anna Quaglieri</description>
+    <title>R on Anna Quaglieri</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Anna Quaglieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/community/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>FeMS mentoring</title>
-      <link>/community/fems/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/community/fems/</guid>
-      <description>Females in Mass Spectrometry (FeMS) mentoring initiative</description>
-    </item>
-    
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bioconductor Code of Conduct</title>
       <link>/community/coc_bioc/</link>

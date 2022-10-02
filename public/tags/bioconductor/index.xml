@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bioconductor on Anna Quaglieri</title>
+    <link>/tags/bioconductor/</link>
+    <description>Recent content in bioconductor on Anna Quaglieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bioconductor Code of Conduct</title>
+      <link>/community/coc_bioc/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/community/coc_bioc/</guid>
+      <description>Since December 2021 I&amp;rsquo;m part of the Bioconductor Code of Conduct (CoC). Incidents happening at every Bioconductor conferences can be reported and the committee is responsible to file them and lead to a conflict resolution which will depend on the gravity of the incident.</description>
+    </item>
+    
+  </channel>
+</rss>

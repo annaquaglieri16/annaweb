@@ -34,5 +34,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>community</title>
+      <link>/categories/community/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/community/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

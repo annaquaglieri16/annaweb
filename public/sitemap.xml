@@ -29,6 +29,45 @@
     <loc>/categories/mass-spectrometry/</loc>
     <lastmod>2022-06-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/community/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/community/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/community/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/community/fems/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mass-spectrometry/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/women/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bioconductor/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/community/coc_bioc/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/code-of-conduct/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/community/rladies/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rladies/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/talk/2021_careers/</loc>
     <lastmod>2021-09-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -40,6 +79,9 @@
   </url><url>
     <loc>/talk/2021_user/</loc>
     <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/community/toastmasters/</loc>
+    <lastmod>2019-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
@@ -56,10 +98,6 @@
   </url><url>
     <loc>/license/</loc>
   </url><url>
-    <loc>/community/</loc>
-  </url><url>
     <loc>/series/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
