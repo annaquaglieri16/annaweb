@@ -2,8 +2,8 @@
 author: Johann Gagnon-Bartsch, Anna Quaglieri, Ramyar Molania, Sepideh Foroutan, Marie Trussart
 categories:
 - talk
-date: "2018-07-11"
-date_end: "2018-07-11"
+date: "2018-07-10"
+date_end: "2018-07-10"
 draft: false
 event: useR! 2018
 event_url: https://www.r-project.org/conferences/useR-2018/tutorials/index.html
