@@ -10,7 +10,7 @@ cascade:
     show_sidebar_adunit: true
     text_contents_label: On this page
     text_link_label: ""
-    text_link_url: ""
+    text_link_url: "/docs/CV.pdf"
     text_series_label: Outline
     title: "Curriculum Vitae"
 description:
