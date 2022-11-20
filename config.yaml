@@ -89,7 +89,7 @@ menu:
   header:
     - name: CV
       title: Personal CV
-      url: /cv/
+      url: /docs/CV.pdf
       weight: 1
     - name: Talks
       title: Talks
