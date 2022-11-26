@@ -3,7 +3,6 @@ date: "2019-10-19"
 image:
   caption: ''
   focal_point: Smart
-summary: Information about the Parkville Toastmasters group and initiatives. 
 tags:
 - community
 - rladies

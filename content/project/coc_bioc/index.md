@@ -3,7 +3,7 @@ date: "2021-11-01"
 image:
   caption: ''
   focal_point: Smart
-summary: Bioconductor Code of Conduct (CoC) for incident reporting and conflict resolution.
+summary: Bioconductor Code of Conduct (CoC) is the Bioconductor volunteering committee for incident reporting and conflict resolution.
 tags:
 - community
 - bioconductor

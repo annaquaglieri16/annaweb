@@ -96,7 +96,7 @@ menu:
       url: /talk/
       weight: 2
     - name: Community
-      title: Community Engagement
+      title: Community Engagement and Leadership Roles
       url: /project/
       weight: 3
 privacy:

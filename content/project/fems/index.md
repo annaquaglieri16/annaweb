@@ -4,7 +4,6 @@ date_end: "2022-06-01"
 image:
   caption: ''
   focal_point: Smart
-summary: Past Mentee @ Females in Mass Spectrometry (FeMS)
 tags:
 - community
 - mass spectrometry
@@ -12,7 +11,7 @@ tags:
 categories:
 - community
 - mass spectrometry
-title: FeMS mentoring
+title: Mentee @ FeMS
 links:
 - icon: door-open
   icon_pack: fas
