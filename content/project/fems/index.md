@@ -4,7 +4,7 @@ date_end: "2022-06-01"
 image:
   caption: ''
   focal_point: Smart
-summary: Females in Mass Spectrometry (FeMS) mentoring initiative 
+summary: Past Mentee @ Females in Mass Spectrometry (FeMS)
 tags:
 - community
 - mass spectrometry

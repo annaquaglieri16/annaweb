@@ -36,7 +36,7 @@ params:
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/annaselfie.png
   headingFontFamily: sans-serif
-  logo: /img/turtle.png
+  logo: /img/annaselfie.png
   mainSections:
     - blog
     - project
@@ -99,14 +99,6 @@ menu:
       title: Community Engagement
       url: /project/
       weight: 3
-    - name: Blogs
-      title: Blogs
-      url: /post/
-      weight: 4
-    - name: Photos
-      title: Conference & Events Photos
-      url: /photos/
-      weight: 5
 privacy:
   disqus:
     disable: no

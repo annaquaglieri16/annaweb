@@ -10,7 +10,7 @@ tags:
 - R
 categories:
 - community
-title: R-Ladies Melbourne
+title: Co-organiser @ R-Ladies Melbourne
 links:
 - icon: twitter
   icon_pack: fab

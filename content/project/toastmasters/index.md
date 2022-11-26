@@ -10,7 +10,7 @@ tags:
 - R
 categories:
 - community
-title: Parkville Toastmasters
+title: VPM @ Parkville Toastmasters
 links:
 - icon: door-open
   icon_pack: fas
@@ -26,4 +26,12 @@ links:
   url: https://www.meetup.com/parkville-toastmasters-meetup/
 ---
 
-I joined the group in 2019 and since then I've been learning so much about giving presentations and growing my confidence in front of an audience. The community at Toastmasters Parkville is extremely supportive and engaging making every event night super fun!  
+[Toastmasters](https://www.toastmasters.org/) is an international community whose aim is to give people the opportunity to learn and improve their communication, public speaking ad leadership skills in a supportive environment and by providing a large amount of mentoring and learning material. 
+
+I joined the [Parkville Toastmasters group](https://www.toastmasters.org/Find-a-Club/03672383-03672383) in 2019 and since then I've delivered over 15 talks, learned new skills in how to run online and in person events and covered volunteered in several roles on the organising committee. 
+
+I am currently the Vice President Membership (VPM) where my role is to be the first contact person when new people contact the club, finalise their memberships, provide them with the necessary first information to get started and pair them with a mentor in the club.
+Trough this group and thanks to the supportive and skilled people who are part of it, I've largely improved my presentations skills and ability to write compelling talks as well as I was able to grow my confidence when standing in front of an audience. 
+
+
+
