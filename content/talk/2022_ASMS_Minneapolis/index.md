@@ -16,7 +16,11 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: 
+  url: "/docs/AutomatedBenchmarking.pdf"
+- icon: youtube
+  icon_pack: fab
+  name: Recording
+  url: https://www.youtube.com/watch?v=hdaLTTkw3xU
 location: Minneapolis, USA
 show_post_time: false
 subtitle: 
