@@ -1,7 +1,6 @@
 ---
 author: Anna Quaglieri
 categories:
-- talk
 - conference
 - mass spectrometry
 date: "2022-06-07"

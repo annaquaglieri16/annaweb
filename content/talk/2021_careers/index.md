@@ -1,7 +1,7 @@
 ---
 author: Anna Quaglieri
 categories:
-- talk
+- panels
 date: "2021-09-22"
 date_end: "2021-12-02"
 draft: false
