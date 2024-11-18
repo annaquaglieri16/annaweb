@@ -30,10 +30,9 @@ links:
   url: https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow?app=desktop
 ---
 
-The group, founded in 2016, is the first R Programming community for women and
-supporters in Australia. I was the main organiser of the group in 2017/2018 where we organised 12
-events (workshops, seminars and networking nights). During that period we also defined the
-structure to become a not-for-profit association; provided funding for women to attend the
-useR! conference; gained a new sponsor, Nous Group, and renewed sponsorship from CSL.
 
-I summarized the R-Ladies achievement during that period in a blog post https://rladiesmelb2018.netlify.com/.
+[R-Ladies Melbourne](https://r-ladiesmelbourne.github.io/), founded in 2016, is Australia’s first R programming community dedicated to supporting women and allies in the field. As a founding committee member and President in 2017–2018, I contributed to the group’s growth and success until stepping down from organizing in 2023.
+As I stepped down as President in 2018, I reflected on the achievements of that year in this blog post: R-Ladies Melbourne, when the group organized 12 impactful events, including workshops, seminars, and networking nights. Significant achievements from this period included establishing the structure to become a not-for-profit association, securing funding to support women attending the useR! conference, gaining a new sponsor, Nous Group, and renewing sponsorship from CSL. 
+
+Since its founding, the group has hosted over 80 events and grown to more than 2,500 members (see [Meetup](https://www.meetup.com/r-ladies-melbourne/) page), becoming a vibrant and thriving community. It fills me with immense pride and happiness to see the incredible women who continue to lead the group, organizing events and fostering inclusivity, ensuring its ongoing success eight years on.
+

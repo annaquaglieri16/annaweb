@@ -36,7 +36,7 @@ params:
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/turtle.jpeg
   headingFontFamily: sans-serif
-  logo: /img/annaselfie.png
+  logo: /img/turtle.jpeg
   mainSections:
     - blog
     - project

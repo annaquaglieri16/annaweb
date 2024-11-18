@@ -5,10 +5,10 @@ image:
   focal_point: Smart
 tags:
 - community
-- rladies
-- R
+- public speaking
+- self-development
 categories:
-- community
+- public speaking
 title: VPM @ Parkville Toastmasters
 links:
 - icon: door-open
@@ -25,12 +25,10 @@ links:
   url: https://www.meetup.com/parkville-toastmasters-meetup/
 ---
 
-[Toastmasters](https://www.toastmasters.org/) is an international community whose aim is to give people the opportunity to learn and improve their communication, public speaking ad leadership skills in a supportive environment and by providing a large amount of mentoring and learning material. 
+[Toastmasters](https://www.toastmasters.org/) is an international organization dedicated to helping individuals enhance their communication, public speaking, and leadership skills in a nurturing environment. It offers extensive mentoring and educational resources to support its members' growth.
 
-I joined the [Parkville Toastmasters group](https://www.toastmasters.org/Find-a-Club/03672383-03672383) in 2019 and since then I've delivered over 15 talks, learned new skills in how to run online and in person events and covered volunteered in several roles on the organising committee. 
+I became a member of the [Parkville Toastmasters group](https://www.toastmasters.org/Find-a-Club/03672383-03672383) in 2019. Since joining, I have delivered over 15 speeches and honed my skills in organizing both online and in-person events. My involvement has extended to various volunteer roles within the organizing committee.
 
-I am currently the Vice President Membership (VPM) where my role is to be the first contact person when new people contact the club, finalise their memberships, provide them with the necessary first information to get started and pair them with a mentor in the club.
-Trough this group and thanks to the supportive and skilled people who are part of it, I've largely improved my presentations skills and ability to write compelling talks as well as I was able to grow my confidence when standing in front of an audience. 
-
+In my role as Vice President of Membership, I serve as the initial point of contact for prospective members, facilitating their membership process, providing essential information to get them started, and pairing them with mentors within the club. Through this group and the supportive community it fosters, I have significantly improved my presentation skills, learned to craft engaging speeches, and gained confidence in addressing diverse audiences.
 
 
