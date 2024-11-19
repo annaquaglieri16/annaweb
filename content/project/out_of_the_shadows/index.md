@@ -14,7 +14,7 @@ categories:
 - community
 - mass spectrometry
 - leadership
-title: Participant @ FeMS "Out of the Shadow" Cohort 5
+title: FeMS "Out of the Shadow" Cohort 5
 links:
 - icon: door-open
   icon_pack: fas
