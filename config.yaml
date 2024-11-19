@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/blackturtle.jpeg
+  favicon: /img/blackcircle.png
   headingFontFamily: sans-serif
-  logo: /img/blackturtle.jpeg
+  logo: /img/blackcircle.png
   mainSections:
     - blog
     - project
