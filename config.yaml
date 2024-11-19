@@ -1,7 +1,7 @@
 baseURL: /
 theme: hugo-apero
 languageCode: en
-title: Anna Quaglieri, PhD
+title: Anna Quaglieri PhD
 author: Anna Quaglieri, PhD
 copyright: ''
 googleAnalytics: ''
@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/turtle.jpeg
+  favicon: /img/blackturtle.jpeg
   headingFontFamily: sans-serif
-  logo: /img/turtle.jpeg
+  logo: /img/blackturtle.jpeg
   mainSections:
     - blog
     - project
