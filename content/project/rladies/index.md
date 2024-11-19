@@ -3,7 +3,6 @@ date: "2021-10-17"
 image:
   caption: ''
   focal_point: Smart
-summary: Information about R-Ladies Melbourne and all events since 2016!
 tags:
 - community
 - rladies
