@@ -6,7 +6,7 @@ images:
 show_social_links: true
 subtitle: 
 text_align_left: false
-title: Anna Quaglieri
+title: Anna Quaglieri, PhD
 type: home
 ---
 
