@@ -15,7 +15,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: "/docs/Talk_AQ-SBEI2026_no_video.pdf"
+  url: "/docs/Talk_AQ-SBEI2026.pdf"
 location: Melbourne, Australia
 show_post_time: false
 subtitle: 
