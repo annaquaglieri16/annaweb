@@ -82,10 +82,14 @@ menu:
       title: Talks
       url: /talk/
       weight: 2
+    - name: Blog
+      title: Blog
+      url: /blog/
+      weight: 3
     - name: Community
       title: Community Engagement and Leadership Roles
       url: /project/
-      weight: 3
+      weight: 4
 privacy:
   disqus:
     disable: no
