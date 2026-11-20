@@ -35,6 +35,7 @@ During the Q&A, Simon highlighted the role of engineering in making that work ea
 That connection between software design and ongoing validation is something I see at [Mass Dynamics](https://massdynamics.com/), where bioinformaticians and engineers work closely together. In my talk, ["Easier for humans, safer for agents"](https://annaquaglieri.netlify.app/docs/Talk_AQ-SBEI2026.pdf) in the Bioinformatics Engineering session, I described our shift from a largely monolithic architecture to a more modular, standardised system. Each new workflow now has its own CI/CD pipeline, with tests that run when the workflow is updated. The aim was to make it easier for scientists to add functionality, with fewer changes across repositories and a clearer way to test their work. At the same time, those same design choices could also make it easier to review changes proposed by AI agents.
 
 ## “Governance is at the heart of anything”
+*From A/Prof Jimmy Breen and Adam Heterick's talk*
 
 {{< figure src="data-sov.jpg" alt="Adam Heterick presenting on data sovereignty" caption="Adam Heterick on data sovereignty in the talk 'Building data systems for Indigenous precision healthcare'." width="80%" >}}
 

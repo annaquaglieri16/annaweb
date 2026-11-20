@@ -1,0 +1,3 @@
+<!-- Overrides the theme's heading render hook to drop the link icon next to headings.
+     Headings keep their id, so #section links still work. -->
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</h{{ .Level }}>
